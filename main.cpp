@@ -1,6 +1,5 @@
-#include <iostream>
-
-int main()
+int main() 
 {
-    std::cout << "Hello world\n";
+  int a[3] = { 0, 1, 2 };
+  a[3] = 4;
 }
